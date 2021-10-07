@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Dart SDK">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/Software Projects/lib/async" />
+      <root url="file://$USER_HOME$/Documents/Software Projects/lib/cli" />
+      <root url="file://$USER_HOME$/Documents/Software Projects/lib/collection" />
+      <root url="file://$USER_HOME$/Documents/Software Projects/lib/convert" />
+      <root url="file://$USER_HOME$/Documents/Software Projects/lib/core" />
+      <root url="file://$USER_HOME$/Documents/Software Projects/lib/developer" />
+      <root url="file://$USER_HOME$/Documents/Software Projects/lib/ffi" />
+      <root url="file://$USER_HOME$/Documents/Software Projects/lib/html" />
+      <root url="file://$USER_HOME$/Documents/Software Projects/lib/indexed_db" />
+      <root url="file://$USER_HOME$/Documents/Software Projects/lib/io" />
+      <root url="file://$USER_HOME$/Documents/Software Projects/lib/isolate" />
+      <root url="file://$USER_HOME$/Documents/Software Projects/lib/js" />
+      <root url="file://$USER_HOME$/Documents/Software Projects/lib/js_util" />
+      <root url="file://$USER_HOME$/Documents/Software Projects/lib/math" />
+      <root url="file://$USER_HOME$/Documents/Software Projects/lib/mirrors" />
+      <root url="file://$USER_HOME$/Documents/Software Projects/lib/svg" />
+      <root url="file://$USER_HOME$/Documents/Software Projects/lib/typed_data" />
+      <root url="file://$USER_HOME$/Documents/Software Projects/lib/web_audio" />
+      <root url="file://$USER_HOME$/Documents/Software Projects/lib/web_gl" />
+      <root url="file://$USER_HOME$/Documents/Software Projects/lib/web_sql" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
